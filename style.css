@@ -1,0 +1,19 @@
+*{
+    color: black;
+}
+h2{
+    text-decoration: underline;
+}
+
+img{
+    height: 762px;
+    width: 1051;
+}
+.item1{
+    border: solid black 2px;
+    padding: 10px;
+}
+img{
+    width:700px;
+    height: 700px;
+}
